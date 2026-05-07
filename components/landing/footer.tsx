@@ -151,7 +151,7 @@ export function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="mailto:support@attendify.app"
+                  href="mailto:presentime.attendify@gmail.com"
                   className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-primary"
                 >
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary/10">
@@ -159,7 +159,7 @@ export function Footer() {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-foreground">Email</p>
-                    <p className="text-sm">support@attendify.app</p>
+                    <p className="text-sm">presentime.attendify@gmail.com</p>
                   </div>
                 </a>
               </li>

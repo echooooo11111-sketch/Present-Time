@@ -126,7 +126,7 @@ export default function PrivacyPolicyPage() {
         "If you have any questions about this Privacy Policy, please contact us:",
       contacts: [
         { label: "Email", value: "privacy@attendify.app" },
-        { label: "Support", value: "support@attendify.app" },
+        { label: "Support", value: "presentime.attendify@gmail.com" },
         { label: "Address", value: "Quezon City, Philippines" },
       ],
     },

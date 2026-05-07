@@ -84,10 +84,10 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold text-foreground">Email</h3>
                 <a
-                  href="mailto:support@attendify.app"
+                  href="mailto:presentime.attendify@gmail.com"
                   className="text-muted-foreground transition-colors hover:text-primary"
                 >
-                  support@attendify.app
+                  presentime.attendify@gmail.com
                 </a>
                 <p className="text-sm text-muted-foreground">
                   We'll respond within 24 hours

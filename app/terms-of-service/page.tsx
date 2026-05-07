@@ -330,10 +330,10 @@ export default function TermsOfServicePage() {
               <li className="text-muted-foreground">
                 Email:{" "}
                 <a
-                  href="mailto:support@attendify.app"
+                  href="mailto:presentime.attendify@gmail.com"
                   className="text-primary hover:underline"
                 >
-                  support@attendify.app
+                  presentime.attendify@gmail.com
                 </a>
               </li>
               <li className="text-muted-foreground">Phone: +63 956 654 0246</li>

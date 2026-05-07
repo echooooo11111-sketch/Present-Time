@@ -267,7 +267,7 @@ export default function UserGuidePage() {
             Contact Support
           </a>
           <a
-            href="mailto:support@attendify.app"
+            href="mailto:presentime.attendify@gmail.com"
             className="inline-flex items-center justify-center rounded-lg border border-border bg-background px-6 py-3 font-semibold transition-colors hover:bg-muted"
           >
             Email Us
